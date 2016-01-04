@@ -1,0 +1,30 @@
+/* CSS Document */
+
+body {
+}
+
+h3 {
+	margin-top:5px;
+}
+
+.wrap #message {
+	color:#f02d0d;
+	margin-left:38px;
+	padding-top:35px;
+}
+
+.wrap #edit {
+	background-image: url('../icons/edit.png');	
+	height:27px;
+	width:25px;
+	float:left;
+	cursor:pointer;
+
+}
+
+.wrap #data {
+	float:left;
+}
+
+
+
